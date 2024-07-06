@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with **advanced Symfony concepts** and **best practices** in web development.
 - ⚡ Fun fact: I love outdoor activities and find coding inspiration while hiking through nature!
 
-- ## Languages and Tools:
+- ## Languages and Frameworks:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
