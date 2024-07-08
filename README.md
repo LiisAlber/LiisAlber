@@ -15,26 +15,19 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 
+## I'm also interested in:
 
-![Coding in Nature](link-to-image)
+- 🌐 Full Stack Development
+- 📱 Creating responsive and interactive web applications
+- 🚀 Contributing to and launching new tech projects
 
-## Featured Projects
-[![Project Name](link-to-screenshot)](link-to-project)
-- **Project Description**: Brief description of what the project does and what skills it demonstrates.
+## How I Work:
 
-## Skills and Tools
-![JavaScript](link-to-badge) ![PHP](link-to-badge) ![Symfony](link-to-badge)
+My work is driven by a passion for clarity, efficiency, and functionality in every project I take on. I value clear communication and thorough planning to ensure successful project outcomes. I enjoy working collaboratively but can also steer projects solo with a focus on results.
 
-## Let's Connect!
-Feel free to star my repositories if you find them useful, follow my GitHub, or connect with me on [LinkedIn](your-linkedin-url).
+## Connect with Me:
 
-[![GitHub followers](https://img.shields.io/github/followers/LiisAlber?label=Follow&style=social)](your-github-url)
-
-## When I’m not coding...
-I’m probably hiking or capturing breathtaking views that energize my creative coding flow!
-
-![My Outdoor Setup](link-to-photo)
-
+Feel free to reach out for collaborations or just a friendly chat about tech, hiking, or anything in-between!
 
 <!--
 Thank you for visiting my profile! Dive into my repositories, and let's connect if you see synergies.
