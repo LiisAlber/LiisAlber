@@ -16,6 +16,26 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 
 
+![Coding in Nature](link-to-image)
+
+## Featured Projects
+[![Project Name](link-to-screenshot)](link-to-project)
+- **Project Description**: Brief description of what the project does and what skills it demonstrates.
+
+## Skills and Tools
+![JavaScript](link-to-badge) ![PHP](link-to-badge) ![Symfony](link-to-badge)
+
+## Let's Connect!
+Feel free to star my repositories if you find them useful, follow my GitHub, or connect with me on [LinkedIn](your-linkedin-url).
+
+[![GitHub followers](https://img.shields.io/github/followers/LiisAlber?label=Follow&style=social)](your-github-url)
+
+## When I’m not coding...
+I’m probably hiking or capturing breathtaking views that energize my creative coding flow!
+
+![My Outdoor Setup](link-to-photo)
+
+
 <!--
 Thank you for visiting my profile! Dive into my repositories, and let's connect if you see synergies.
 -->
