@@ -17,6 +17,19 @@
 
 ![LiisAlber's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiisAlber&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LiisAlber&theme=tokyonight&background=000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiisAlber&layout=compact&theme=tokyonight)
+
+![Metrics](https://metrics.lecoq.io/LiisAlber?template=terminal&isocalendar=1&isocalendar.duration=full-year)
+
+![Visitor Count](https://profile-counter.glitch.me/LiisAlber/count.svg)
+
+![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/liis-alber-jaansalu/)
+
+
 
 ## I'm also interested in:
 
