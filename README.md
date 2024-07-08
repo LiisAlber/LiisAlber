@@ -15,6 +15,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 
+![LiisAlber's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiisAlber&show_icons=true&theme=tokyonight)
+
+
 ## I'm also interested in:
 
 - 🌐 Full Stack Development
