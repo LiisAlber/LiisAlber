@@ -46,10 +46,6 @@ My work is driven by a passion for clarity, efficiency, and functionality in eve
 
 ![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-## 📈 Additional Metrics
-
-![Metrics](https://metrics.lecoq.io/LiisAlber?template=terminal&isocalendar=1&isocalendar.duration=full-year)
-
 ## 👥 Connect with Me
 
 Feel free to reach out for collaborations or just a friendly chat about tech, hiking, or anything in-between!
